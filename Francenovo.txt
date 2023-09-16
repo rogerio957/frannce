@@ -1,0 +1,196 @@
+#EXTM3U
+#EXTINF:-1,FR: RMC Story
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/142407
+#EXTINF:-1,FR: Equidia Live
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242415
+#EXTINF:-1,FR: J One
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242417
+#EXTINF:-1,FR: La Chaine Meteo
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242418
+#EXTINF:-1,FR: Nickelodeon Junior
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242425
+#EXTINF:-1,FR: Novelas TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242426
+#EXTINF:-1,FR: Paramount Channel
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242427
+#EXTINF:-1,FR: Paramount Channel Decale
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242428
+#EXTINF:-1,FR: Polar
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242429
+#EXTINF:-1,FR: Trek
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242430
+#EXTINF:-1,FR: Box Office 1
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21064
+#EXTINF:-1,FR: Box Office 2
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21065
+#EXTINF:-1,FR: Box Office 3
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21066
+#EXTINF:-1,FR: Box Office 4
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/19434
+#EXTINF:-1,FR: Box Office 5
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21068
+#EXTINF:-1,FR: Box Office 6
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21069
+#EXTINF:-1,FR: Box Office 7
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/205691
+#EXTINF:-1,FR: Box Office 8
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/27579
+#EXTINF:-1,FR: Box Office 9
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/205689
+#EXTINF:-1,FR: Box Office 10
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/205690
+#EXTINF:-1,FR: Bet HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/247278
+#EXTINF:-1,FR: 6Ter
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/44372
+#EXTINF:-1,FR: AB1
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20896
+#EXTINF:-1,FR: AB3
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20911
+#EXTINF:-1,FR: Action
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20912
+#EXTINF:-1,FR: Altice Studio
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20918
+#EXTINF:-1,FR: Animaux
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20898
+#EXTINF:-1,FR: Automoto HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20897
+#EXTINF:-1,FR: BFM TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20901
+#EXTINF:-1,FR: Boing
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/81192
+#EXTINF:-1,FR: Boomerang
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20928
+#EXTINF:-1,FR: C News
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20934
+#EXTINF:-1,FR: C8
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20908
+#EXTINF:-1,FR: Canal J
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/43945
+#EXTINF:-1,FR: Canal+ Cinema
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20883
+#EXTINF:-1,FR: Canal+ Decale
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20884
+#EXTINF:-1,FR: Canal+ Family
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20885
+#EXTINF:-1,FR: Canal+ HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/28334
+#EXTINF:-1,FR: Canal+ Series
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20887
+#EXTINF:-1,FR: Cartoon Network
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20930
+#EXTINF:-1,FR: Chasse Et Peche
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/44451
+#EXTINF:-1,FR: Cherie 25
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/43947
+#EXTINF:-1,FR: Cine+ Classic
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20888
+#EXTINF:-1,FR: Cine+ Emotion
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/43948
+#EXTINF:-1,FR: Cine+ Famiz
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20890
+#EXTINF:-1,FR: Cine+ Premier
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20892
+#EXTINF:-1,FR: Comedie+
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20935
+#EXTINF:-1,FR: Crime District
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20936
+#EXTINF:-1,FR: Discovery Channel
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20940
+#EXTINF:-1,FR: Discovery Investigation
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/43952
+#EXTINF:-1,FR: Discovery Science
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/80940
+#EXTINF:-1,FR: Euronews
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20948
+#EXTINF:-1,FR: France 2
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20875
+#EXTINF:-1,FR: France 24
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20876
+#EXTINF:-1,FR: France 3
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20877
+#EXTINF:-1,FR: France 4
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20878
+#EXTINF:-1,FR: France 5
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20879
+#EXTINF:-1,FR: France Info HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/29132
+#EXTINF:-1,FR: Gameone
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20952
+#EXTINF:-1,FR: Gulli
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20956
+#EXTINF:-1,FR: Histoire
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20957
+#EXTINF:-1,FR: L'equipe 21
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/43961
+#EXTINF:-1,FR: LCI HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/43962
+#EXTINF:-1,FR: LCP HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/81054
+#EXTINF:-1,FR: M6
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/42842
+#EXTINF:-1,FR: Mangas
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/43963
+#EXTINF:-1,FR: National Geographic
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20986
+#EXTINF:-1,FR: Nat Geo Wild
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20985
+#EXTINF:-1,FR: Nickelodeon
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20993
+#EXTINF:-1,FR: Nickelodeon Teen 
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/80971
+#EXTINF:-1,FR: NRJ 12
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/44473
+#EXTINF:-1,FR: OCS Choc
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21003
+#EXTINF:-1,FR: OCS City
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21004
+#EXTINF:-1,FR: OCS Geants
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21005
+#EXTINF:-1,FR: Paris Premiere
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21010
+#EXTINF:-1,FR: Piwi+
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21012
+#EXTINF:-1,FR: Planete+
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21015
+#EXTINF:-1,FR: Planete+ Adventure
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21013
+#EXTINF:-1,FR: Planete+ Crime
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21014
+#EXTINF:-1,FR: RMC Decouverte
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20841
+#EXTINF:-1,FR: RTL9
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20899
+#EXTINF:-1,FR: Seasons
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21018
+#EXTINF:-1,FR: SyFy
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/143498
+#EXTINF:-1,FR: TCM Cinema
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21028
+#EXTINF:-1,FR: Teletoon
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21029
+#EXTINF:-1,FR: Teva
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21030
+#EXTINF:-1,FR: TF1
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21031
+#EXTINF:-1,FR: TF1 Series Films
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/43975
+#EXTINF:-1,FR: TFX
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/44474
+#EXTINF:-1,FR: Tiji HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21034
+#EXTINF:-1,FR: TMC
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20900
+#EXTINF:-1,FR: Toonami
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21035
+#EXTINF:-1,FR: Toute L'histoire
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/20903
+#EXTINF:-1,FR: TV Breizh
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/43979
+#EXTINF:-1,FR: TV5 Monde
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21048
+#EXTINF:-1,FR: W9
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/21055
+#EXTINF:-1,FR: Warner Bros HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/43946
+
